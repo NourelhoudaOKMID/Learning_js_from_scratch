@@ -1,4 +1,4 @@
-# Learning js from scratch for beginner 🚀
+# Javascript From Zero To Hero  🚀
 This repository contains my journey learning JavaScript From Zero To Hero  .
 
 
