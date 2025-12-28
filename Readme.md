@@ -8,6 +8,25 @@ This repository is designed for **absolute beginners** who want to learn JavaScr
 - Practice daily
 - Become confident with JS
 
+
+## 🗒️Notes 
+- This project uses pure JavaScript 
+- All examples are beginner-friendly 
+- Comments are added to explain each concept clearly 
+- No frameworks or libraries are used 
+
+
+## Learning Progress :
+- ✅ Variables  
+- ✅ Data Types (Number , String , Boolean , Null , Undefined )
+-✅Conditions (if , else , switch )
+-⏳Loops
+-⏳Functions
+-⏳Classes & objects
+---
+
+
+
 # Structure : 
 - index.html 
 - public/css/app.css
@@ -25,19 +44,9 @@ This repository is designed for **absolute beginners** who want to learn JavaScr
 git clone https://github.com/NourelhoudaOKMID/JavaScript_From_Zero_To_Hero.git
 ```
 
-## Learning Progress :
-- ✅ Variables  
-- ✅ Data Types (Number , String , Boolean , Null , Undefined )
--⏳Conditions
--⏳Loops
--⏳Functions
--⏳Classes & objects
----
-## 🗒️Notes 
-- This project uses pure JavaScript 
-- All examples are beginner-friendly 
-- Comments are added to explain each concept clearly 
-- No frameworks or libraries are used 
+
+
+
 ## Author : 
 **Nour El Houda OKMID**
 JavaScript & Full-Stack Development Learner 
