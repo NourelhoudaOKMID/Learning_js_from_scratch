@@ -107,6 +107,42 @@ console.log("Is student ? ", isStudent); // true
 console.log("Is graduated ? " , isGraduated); // false 
 // we are going to used in conditions and logic and you 're going to understand 
 
+console.log("----------------Example :Undefined----------------- ");
+
+let city ; 
+console.log(city); // undefined  
+// in this case the JS has the variable : city but it has no value yet 
+
+
+console.log("----------------------Example : Null ----------------------");
+let phoneNumber = null ; 
+console.log(phoneNumber); // Null
+
+//* Summary : 
+console.log("------------Data Types Summary-------------");
+let n = 1;         // number 
+let c = "JS";      //string
+let h = false;     // boolean 
+let u;             // undefined
+let x = null ;     // null
+
+console.log(typeof n);
+console.log(typeof c);
+console.log(typeof h);
+console.log(typeof u);
+console.log(typeof x); // object
+
+console.log(typeof 10);
+console.log(typeof "hello");
+console.log(typeof true);
+// ? typeof  null returns " object " -> this is a  known JavaScript bug  
+console.log(typeof null); 
+console.log(typeof undefined);
+
+
+
+
+
 
 
 
