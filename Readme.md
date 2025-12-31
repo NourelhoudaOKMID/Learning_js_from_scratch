@@ -17,13 +17,16 @@ This repository is designed for **absolute beginners** who want to learn JavaScr
 
 
 ## Learning Progress :
-- ✅ Variables  
+- ✅ Variables
 - ✅ Data Types (Number , String , Boolean , Null , Undefined )
--✅Conditions (if , else , switch )
--⏳Loops
--⏳Functions
--⏳Classes & objects
----
+- ✅Conditions (if , else , switch )
+
+- ⏳Loops
+
+- ⏳Functions
+
+- ⏳Classes & objects
+
 
 
 
