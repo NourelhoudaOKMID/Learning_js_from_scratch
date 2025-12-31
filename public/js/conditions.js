@@ -19,7 +19,6 @@ if (age >= 18) {
 //^ Example 2: if statement 
 let hour = 10;
 
-// check if the user is adult 
 if (hour < 12) {
     console.log("Good morning ! "); // runs if conditions is true  
 } else {
@@ -64,6 +63,22 @@ switch (day) {
 
 
 
+}
+//^ Example 5: Switch 
+// switch case with an example of Conditions 
+let year = parseInt(prompt(" enter the year : "))
+
+switch (true) {
+    case (year > 2000 && year < 2005):
+        console.log(" welcome sir / Mdm ")
+        break;
+    case year > 2000:
+        console.log("hello ");
+        
+        break;
+    default:
+        alert(" your not chosen ")
+        break;
 }
 
 
@@ -113,7 +128,7 @@ if (inpuUsername === username && inputPassword === password) {
     //  Flexible you can use > , < , === , && , || etc.
 
 //&   2: switch
-    //  Used when yuo want to check a variable against many exact values . 
+    //  Used when you want to check a variable against many exact values . 
     //  Works best when you have one variable and discrete cases.Works
     //  Less flexible : cannot check ranges (without tricks).Less
     //  Each case must be avalue , not a condition .
