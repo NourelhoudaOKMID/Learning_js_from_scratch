@@ -20,6 +20,7 @@ This repository is designed for **absolute beginners** who want to learn JavaScr
 - ✅ Variables
 - ✅ Data Types (Number , String , Boolean , Null , Undefined )
 - ✅Conditions (if , else , switch )
+- ⏳ Methods 
 
 - ⏳Loops
 
